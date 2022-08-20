@@ -1,0 +1,17 @@
+body {background-color: rgb(8, 50, 155);
+}
+h1{color: red; background-color: black;font-size: 70px; font-style: italic; text-align: center;
+}
+h2#About-me{color: blue;text-align: center; font-style: italic;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+h2#Objectives {color: rgba(228, 32, 32, 0.874); text-align: center; font-style: italic;
+}
+nav{background-color: black; text-align: center;
+}
